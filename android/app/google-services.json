@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1015793790394",
+    "firebase_url": "https://adlapp-6022e.firebaseio.com",
+    "project_id": "adlapp-6022e",
+    "storage_bucket": "adlapp-6022e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015793790394:android:db126223f56b7cd9118183",
+        "android_client_info": {
+          "package_name": "com.adlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015793790394-17285kv60390po665v8eglbsurtq7q92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adlapp",
+            "certificate_hash": "3e1540762d1176e994739110f29a8b1cf391f4ee"
+          }
+        },
+        {
+          "client_id": "1015793790394-ogrf0ev23dg1n9pdh94dng88jorfl74n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ_3_TRQaXnqUyR3kra_AttU-1WqzbaWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015793790394-ogrf0ev23dg1n9pdh94dng88jorfl74n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
